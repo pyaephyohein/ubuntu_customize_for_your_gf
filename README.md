@@ -2,10 +2,15 @@
 ## Requirements
 
 + CUBIC
-```sudo apt-add-repository ppa:cubic-wizard/release
-```
-``` sudo apt update
- ```
-``` sudo apt install cubic
-```
 
+Block code "fences"
+
+```
+sudo apt-add-repository ppa:cubic-wizard/release
+```
+```
+sudo apt update
+```
+```
+sudo apt install cubic
+```
