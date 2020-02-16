@@ -2,7 +2,10 @@
 ## Requirements
 
 + CUBIC
-''' sudo apt-add-repository ppa:cubic-wizard/release '''
-''' sudo apt update '''
-''' sudo apt install cubic '''
+```sudo apt-add-repository ppa:cubic-wizard/release
+```
+``` sudo apt update
+ ```
+``` sudo apt install cubic
+```
 
