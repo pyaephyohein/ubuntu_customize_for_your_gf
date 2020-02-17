@@ -1,7 +1,7 @@
 # Ubuntu Customization for Your Girlfriend
 ## Requirements
 
-+ CUBIC
+CUBIC
 
 
 ```
