@@ -32,6 +32,8 @@ ISO( ubuntu 19.10 ) [You Can Download Here](http://releases.ubuntu.com/19.10/ubu
 
 [Ubuntu Myanmar Tutorial](https://ubuntu-mm.net/umw/)
 
+Customized ISO coming soom....... My Girlfriend Edition :wink:
+
 ## If you have any question !  
 ### Contact Me! :wink:
 ### Email - pyaephyohein.info.3326@gmail.com
